@@ -56,6 +56,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ozanozyegen
+# - icon: medium
+#   icon_pack: fab
+#   link: https://medium.com/@ozanozyegen
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,7 +74,12 @@ email: ""
 highlight_name: false
 ---
 
-Hi, I am a Research Assistant at [Ryerson University Data Science Lab](https://www.ryerson.ca/dsl/). My current aim is to make Deep Learning models more explainable. 
+Hi, I am a PhD Student at Ryerson University and Research Assistant at [Ryerson University Data Science Lab](https://www.ryerson.ca/dsl/). My research focus is on Explainability of Deep Neural Networks, Time Series and Natural Language Processing. To learn more about my work, please check out my [CV](media/Ozan_Ozyegen_CV.pdf) and [LinkedIn profile](https://www.linkedin.com/in/ozanozyegen/).
 
+While my models are training, I engage with the ML community  by hosting live streams with amazing time series researchers as the Time Series Stream Owner at [AISC Machine Learning Community](https://ai.science/).
+
+In my spare time, I strive to learn more about my other passions such as Behavioral Psychology, Futurism, Quantified Self and Nutrition.
+
+When I need to cool down, you can find me learning new melodies, playing board games, or discovering new places.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Ozan_Ozyegen_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
